@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Tanveer Ahmed
 
-<!--
-**tanveerahmed9413/tanveerahmed9413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | JavaScript Learner | Building daily
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- Focused on strong JavaScript fundamentals
+- Building real-world frontend projects
+- Consistent daily learner (logic > libraries)
+
+---
+
+## 🔥 Current Focus
+- JavaScript (Async/Await, DOM, APIs)
+- Frontend Projects
+- Git & GitHub best practices
+
+---
+
+## 📅 Daily Learning Log
+- Learning JavaScript deeply
+- Practicing logic-based problems
+- Improving project documentation
+
+---
+
+## 🚀 Projects
+- Bubble Game – JavaScript logic-based game
+- Portfolio Website – HTML, CSS, JS
+- Weather App – API + async/await
+
+---
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/tanveerahmed9413
+- Portfolio: [(your link)](https://tanveerahmed9413.github.io/firstportfolio/)
